@@ -118,8 +118,4 @@ The rest of the scraper works without modification.
 - `beautifulsoup4`
 - `lxml`
 
----
-
-## License
-
 MIT — free to use, modify, and distribute.
